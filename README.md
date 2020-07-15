@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+This ✨ _special_ ✨ repository is my GitHub profile.
+
+- 🌱 learning...
+
+![Golang](./golang.png) ![Kubernetes](./kubernetes.png)
+
+- 🔭 involving...
+
+![OAM](./oam.png)
+
 <!--
 **zzxwill/zzxwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
