@@ -2,11 +2,11 @@
 
 This ✨ _special_ ✨ repository is my GitHub profile.
 
-- 🌱 learning...
+- 🌱 learning ...
 
 ![Golang](./golang.png) ![Kubernetes](./kubernetes.png)
 
-- 🔭 involving...
+- 🔭 working on ...
 
 ![OAM](./oam.png)
 
