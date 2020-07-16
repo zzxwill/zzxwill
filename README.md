@@ -4,7 +4,7 @@ This ✨ _special_ ✨ repository is my GitHub profile.
 
 - 🌱 learning ...
 
-![Golang](./golang.png) ![Kubernetes](./kubernetes.png)
+<img width="32" height="32" src="./golang.png"/> ![Kubernetes](./kubernetes.png)
 
 - 🔭 working on ...
 
