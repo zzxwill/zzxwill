@@ -9,7 +9,7 @@ I am currently
 
 - 🔭 working on ...
 
-<img width="32" height="32" src="./oam.jpg"/>
+<img width="32" height="32" src="./kubevela.jpg"/><img width="32" height="32" src="./oam.jpg"/>
 
 <!--
 **zzxwill/zzxwill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
